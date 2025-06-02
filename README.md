@@ -2,21 +2,15 @@
 
 ###
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="200" src="https://github.com/user-attachments/assets/12a85a22-f620-449c-a7e5-e522879b8f41" />
-      </td>
-      <td>
-        <h2>Hi, I'm a passionate Full Stack Developer From Punjab.</h2>
-        <p>
-          Exploring the power of Java, Node.js, and Machine Learning.<br>
-          Building scalable apps, solving real-world problems, and learning every day.
-        </p>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
+  <img height="200" src="https://github.com/user-attachments/assets/12a85a22-f620-449c-a7e5-e522879b8f41" style="max-width: 100%; height: auto;" />
+  <div style="max-width: 400px; text-align: left;">
+    <h2>Hi, I'm a passionate Full Stack Developer From Punjab.</h2>
+    <p>
+      Exploring the power of Java, Node.js, and Machine Learning.<br />
+      Building scalable apps, solving real-world problems, and learning every day.
+    </p>
+  </div>
 </div>
 
 ###
